@@ -191,6 +191,17 @@
       "required": true,
       "immutable": false,
       "group_name": "virtualmachine"
+    },
+    {
+      "name": "datastore_id",
+      "type": "string",
+      "description": "ID of datastore to place VM.",
+      "hidden": true,
+      "label": "Datastore ID",
+      "secured": false,
+      "required": true,
+      "immutable": false,
+      "group_name": "virtualmachine"
     }
   ],
   "template_output_params": []
