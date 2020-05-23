@@ -21,7 +21,7 @@
       "hidden": false,
       "label": "Name",
       "secured": false,
-      "required": false,
+      "required": true,
       "immutable": false,
       "group_name": "virtualmachine"
     },
