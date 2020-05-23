@@ -21,7 +21,7 @@
       "hidden": false,
       "label": "Name",
       "secured": false,
-      "required": true,
+      "required": false,
       "immutable": false,
       "group_name": "virtualmachine"
     },
@@ -76,7 +76,7 @@
       "hidden": true,
       "label": "SCSI type",
       "secured": false,
-      "required": true,
+      "required": false,
       "immutable": false,
       "group_name": "virtualmachine"
     },
